@@ -26,7 +26,7 @@
   
 #### 流程
 
-!()[https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/%E6%88%AA%E5%9B%BE_2021-12-03_09-23-00.png]
+![](https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/%E6%88%AA%E5%9B%BE_2021-12-03_09-23-00.png)
 
 - “主机”指的是CPU+主存储器
 - “辅存”指的是机械硬盘等等
