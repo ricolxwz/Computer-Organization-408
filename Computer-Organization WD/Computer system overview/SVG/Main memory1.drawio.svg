@@ -1,2 +1,140 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="301px" height="511px" viewBox="-0.5 -0.5 301 511" content="&lt;mxfile&gt;&lt;diagram id=&quot;v3rwzgFzJjhjKckEDBex&quot; name=&quot;Page-1&quot;&gt;7VdBb6QgFP41JLuHTRTU0aOO0+6ll/awZ6qMkqLMItOZ9tcvKjpS6KZNbbaHTZr08fF48r738WAA2jbna4EP9Q0vCQPQK88A5QBC34cQ9H9e+TQimzAYgUrQUjtdgDv6TDToafRIS9IZjpJzJunBBAvetqSQBoaF4CfTbc+Z+dUDrogF3BWY2egvWsp6RGO4ueA/Ca3q6ct+lIwzDZ6cdSZdjUt+WkBoB9BWcC5HqzlvCevJm3gZ1129MjtvTJBWvmmBXvGI2VEnpzcmn6ZsBT+2JekXeABlp5pKcnfART97UvVVWC0bpka+MrsHIotaDyqGu06vmzPtB/Y2p30QIcl5AeltXxPeECmelIuehZHWjNaQH2lKT5eKIE9j9aIa4aQirFVQzbEvRClDc+XmbeOgLWLqC9m9QV70+9iXMtvzVv7oBiGnysHfHM6XSWVV/f8b0vAhxbQsBVHMQe+WVLSTRMzRxeT8DexCkOYgiXsjhiAdjGQLMm8wchAPRnoF4sBwThLl/H0KqVK9n4JatVfFkGaBMaNVq+xClU7tC2V9yag6G6meaGhZ9sszlQJ9xvdDqL7oB05bOXAeZiDM+1hHyUdSRu1IwR/IljOu4uYtb8lKUkkSQyohsqUCkUMqwQpKST5VKTmW+P0yiUASDjKJQJyDdPdfJkO38M2OEnkOmbg6yhoy8eFnNuI1DlFssjNnvWQncrAzgx+hB716imp/VqVD6QHIFILsc7GQ9SLChxi3JL92CVD4ogSOK8+HjhL4a1x5gVWCm/T2a2kUeWajD3yboMTBzxoK9W1+LHJIqZ6Reqj71oKNVwno+FEUOkQ4QhKLikijMH3wv5IkCMOSPppv2I+kHNqKyL+YIgL4DxVh8+NqWqpFxSBzdi99B7+tV9l3sPOi3FPGXkBvv6td1TPrazzzjff/2md9erBN7//E0Qyd99H7S6uGl59kw9zihy3a/QE=&lt;/diagram&gt;&lt;/mxfile&gt;"><defs/><g><rect x="0" y="0" width="300" height="510" fill="none" stroke="none" pointer-events="all"/><path d="M 0.87 -1.07 L 300.15 1 L 299.54 508.4 L 1.78 511.33" fill="#ffffff" stroke="none" pointer-events="all"/><path d="M 0 0 C 63.42 0.08 126.34 0.08 300 0 M 0 0 C 81.79 -0.37 163.9 -1.24 300 0 M 300 0 C 298.18 129.15 297.62 257.72 300 510 M 300 0 C 299.6 146.1 299.19 292.7 300 510 M 300 510 C 220.67 509.31 141.38 508.45 0 510 M 300 510 C 222.24 511.96 144.77 510.72 0 510 M 0 510 C -1.36 306.3 -2.27 102.95 0 0 M 0 510 C 0.42 307.27 0.07 104.31 0 0" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/><rect x="35" y="370" width="230" height="40" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 390px; margin-left: 150px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><b style="font-size: 17px">Memory Address Register<br />(存储地址寄存器)</b></div></div></div></foreignObject><text x="150" y="394" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Memory Address Register...</text></switch></g><rect x="50" y="440" width="200" height="40" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 460px; margin-left: 150px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><b style="font-size: 17px">Memory Data Register<br />(存储数据寄存器)</b></div></div></div></foreignObject><text x="150" y="464" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Memory Data Register...</text></switch></g><rect x="20" y="80" width="260" height="260" fill="none" stroke="none" pointer-events="all"/><path d="M 18.4 81.16 L 280.26 78.72 L 281.36 340.92 L 21.37 339.31" fill="#ffffff" stroke="none" pointer-events="all"/><path d="M 20 80 C 74.06 81.08 130.73 81.24 280 80 M 20 80 C 108.98 81.23 198.61 81.26 280 80 M 280 80 C 280.36 154.1 281.52 230.6 280 340 M 280 80 C 279.68 148.97 279.57 215.75 280 340 M 280 340 C 220.88 337.58 160.68 337.84 20 340 M 280 340 C 201.38 342.46 124.51 341.82 20 340 M 20 340 C 19.09 251.36 20.9 164.88 20 80 M 20 340 C 17.71 249.31 18.73 158.09 20 80" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/><rect x="90" y="100" width="120" height="110" fill="none" stroke="none" pointer-events="all"/><path d="M 89.12 100.77 L 209.28 98.43 L 209.59 211.27 L 90.53 210.75" fill="#ffffff" stroke="none" pointer-events="all"/><path d="M 90 100 C 114.34 101.5 137.87 101.84 210 100 M 90 100 C 125.5 99.95 163.12 99.85 210 100 M 210 100 C 210.21 131.07 208.79 160.63 210 210 M 210 100 C 208.99 141.04 208.56 182.13 210 210 M 210 210 C 180.74 208.39 149.6 211.3 90 210 M 210 210 C 168.3 209.82 125.68 208.59 90 210 M 90 210 C 90.95 173.24 90.46 136.49 90 100 M 90 210 C 91.81 185.57 91.46 159.8 90 100" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 155px; margin-left: 91px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1>存储体<br /></h1></div></div></div></foreignObject><text x="150" y="159" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">存储体
-</text></switch></g><rect x="45" y="250" width="90" height="60" fill="none" stroke="none" pointer-events="all"/><path d="M 45.65 249 L 134.39 250.14 L 136.41 309.79 L 45.12 308.73" fill="#ffffff" stroke="none" pointer-events="all"/><path d="M 45 250 C 62.19 249.26 82.53 249.8 135 250 M 45 250 C 79.08 251.56 111.64 250.67 135 250 M 135 250 C 134.05 267.31 135.49 287.59 135 310 M 135 250 C 135.65 270.68 134.11 291.41 135 310 M 135 310 C 115.91 309.76 97.53 310.17 45 310 M 135 310 C 99.5 310.3 62.86 309.96 45 310 M 45 310 C 44.81 293.59 44.84 275.04 45 250 M 45 310 C 44.44 287.64 44.26 263.85 45 250" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 280px; margin-left: 46px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">MAR</div></div></div></foreignObject><text x="90" y="284" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">MAR</text></switch></g><path d="M 165 280 L 141.37 280" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 136.12 280 L 143.12 276.5 L 141.37 280 L 143.12 283.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><rect x="165" y="250" width="90" height="60" fill="none" stroke="none" pointer-events="all"/><path d="M 163.17 251.23 L 254.5 251.85 L 254.24 308.32 L 164.72 310.72" fill="#ffffff" stroke="none" pointer-events="all"/><path d="M 165 250 C 181.04 248.95 200.21 249.69 255 250 M 165 250 C 186.75 251.23 209.37 249.56 255 250 M 255 250 C 253.24 271.59 253.53 292.64 255 310 M 255 250 C 254.98 268.96 254.34 287.99 255 310 M 255 310 C 220.77 311.05 189.83 308.96 165 310 M 255 310 C 233.06 310.63 211.76 309.17 165 310 M 165 310 C 166.52 297.13 163.08 283.94 165 250 M 165 310 C 164.53 290.46 164.52 271.43 165 250" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 280px; margin-left: 166px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">MDR</div></div></div></foreignObject><text x="210" y="284" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">MDR</text></switch></g><rect x="66" y="30" width="160" height="20" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 40px; margin-left: 67px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1>主存储器</h1></div></div></div></foreignObject><text x="146" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">主存储器</text></switch></g></g><switch><g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/><a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank"><text text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1</text></a></switch></svg>
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="301px" height="511px" viewBox="-0.5 -0.5 301 511" content="&lt;mxfile&gt;&lt;diagram id=&quot;v3rwzgFzJjhjKckEDBex&quot; name=&quot;Page-1&quot;&gt;7VdBb5swGP01lrbDJGwDgSOEtLvk0hx2doILVg3OjLMk/fUzYAgurtSqVOthUqR8PH829nvvsw3A6+pyL8mx3IqccoC8/AJwBhCCECHQ/rz82iOrwO+BQrLcJN2AHXumBvQMemI5baxEJQRX7GiDB1HX9KAsjEgpznbao+D2W4+koDNgdyB8jv5iuSp7NEKrG/6TsqIc3gzDuG+pyJBsVtKUJBfnCYQ3AK+lEKqPqsua8pa8gZe+390rrePEJK3VmzqYHn8IP5nFmYmp67BaKU51TtsOHsDpuWSK7o7k0Laetb4aK1XF9RPUYfNE1aE0DwUnTWP6jSttH+bTHOZBpaKXCWSmfU9FRZW86hTTikLjGeMhGBpKzzdFsGewcqJGMLiIGBcU49g3onRguHLztnLQFnL9hnRvkRf+PrVSpo+iVj+azsiJToCr4+XWqKOi/d/SSnRLTPJcUs0c8h5owRpF5Ti6HJK/gU0AkgzEURtECCRdEK9B6nVBBqIuSO5A5FvJcayTvw9D6qXuh0Fn2msxlC0w4ayodXzQ0ul54bSVjOnaSExDxfK87Z7qJbBnsu+GakU/ClarjvMgBUHWjnVSoiel946S4omuBRd63KwWNV3IKnFsWSXAc6sg7LCKv4BT4k91SkYUeb9NQhAHnU1CEGUg2fy3SbdbQHtHCT2HTVw7yhI2gegzN+Iliiiy2RlXPWUndLAzgh+hB79aRSUcXelwug9SjeB5XUxsPRnhQ4zPLL+0BDh4IYHjyIPIIQFc4sjzZxJsk4ev5VHs2Ru9D+cExQ5+lnBoMKcn+2L0+Ojf0QPn/LgqWNdrBFJnKZsD6W2FOz+QnKfGI+P8BfT2g8ulnq2vdee1LsNLG3+4vQyX4dixMzg35/dLqx9v3ydd2+QrD2/+Ag==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="300" height="510" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 0.87 -1.07 L 300.15 1 L 299.54 508.4 L 1.78 511.33" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <path d="M 0 0 C 63.42 0.08 126.34 0.08 300 0 M 0 0 C 81.79 -0.37 163.9 -1.24 300 0 M 300 0 C 298.18 129.15 297.62 257.72 300 510 M 300 0 C 299.6 146.1 299.19 292.7 300 510 M 300 510 C 220.67 509.31 141.38 508.45 0 510 M 300 510 C 222.24 511.96 144.77 510.72 0 510 M 0 510 C -1.36 306.3 -2.27 102.95 0 0 M 0 510 C 0.42 307.27 0.07 104.31 0 0" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="35" y="370" width="230" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 390px; margin-left: 150px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <b style="font-size: 17px">
+                                    Memory Address Register
+                                    <br/>
+                                    (存储地址寄存器)
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="150" y="394" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Memory Address Register...
+                </text>
+            </switch>
+        </g>
+        <rect x="50" y="440" width="200" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 460px; margin-left: 150px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <b style="font-size: 17px">
+                                    Memory Data Register
+                                    <br/>
+                                    (存储数据寄存器)
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="150" y="464" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Memory Data Register...
+                </text>
+            </switch>
+        </g>
+        <rect x="20" y="80" width="260" height="260" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 18.4 81.16 L 280.26 78.72 L 281.36 340.92 L 21.37 339.31" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <path d="M 20 80 C 74.06 81.08 130.73 81.24 280 80 M 20 80 C 108.98 81.23 198.61 81.26 280 80 M 280 80 C 280.36 154.1 281.52 230.6 280 340 M 280 80 C 279.68 148.97 279.57 215.75 280 340 M 280 340 C 220.88 337.58 160.68 337.84 20 340 M 280 340 C 201.38 342.46 124.51 341.82 20 340 M 20 340 C 19.09 251.36 20.9 164.88 20 80 M 20 340 C 17.71 249.31 18.73 158.09 20 80" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="90" y="100" width="120" height="110" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 89.12 100.77 L 209.28 98.43 L 209.59 211.27 L 90.53 210.75" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <path d="M 90 100 C 114.34 101.5 137.87 101.84 210 100 M 90 100 C 125.5 99.95 163.12 99.85 210 100 M 210 100 C 210.21 131.07 208.79 160.63 210 210 M 210 100 C 208.99 141.04 208.56 182.13 210 210 M 210 210 C 180.74 208.39 149.6 211.3 90 210 M 210 210 C 168.3 209.82 125.68 208.59 90 210 M 90 210 C 90.95 173.24 90.46 136.49 90 100 M 90 210 C 91.81 185.57 91.46 159.8 90 100" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 155px; margin-left: 91px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <h1>
+                                    存储体
+                                    <br/>
+                                </h1>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="150" y="159" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    存储体
+                </text>
+            </switch>
+        </g>
+        <rect x="45" y="250" width="90" height="60" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 45.65 249 L 134.39 250.14 L 136.41 309.79 L 45.12 308.73" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <path d="M 45 250 C 62.19 249.26 82.53 249.8 135 250 M 45 250 C 79.08 251.56 111.64 250.67 135 250 M 135 250 C 134.05 267.31 135.49 287.59 135 310 M 135 250 C 135.65 270.68 134.11 291.41 135 310 M 135 310 C 115.91 309.76 97.53 310.17 45 310 M 135 310 C 99.5 310.3 62.86 309.96 45 310 M 45 310 C 44.81 293.59 44.84 275.04 45 250 M 45 310 C 44.44 287.64 44.26 263.85 45 250" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 280px; margin-left: 46px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                MAR
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="284" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    MAR
+                </text>
+            </switch>
+        </g>
+        <rect x="165" y="250" width="90" height="60" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 163.17 251.23 L 254.5 251.85 L 254.24 308.32 L 164.72 310.72" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <path d="M 165 250 C 181.04 248.95 200.21 249.69 255 250 M 165 250 C 186.75 251.23 209.37 249.56 255 250 M 255 250 C 253.24 271.59 253.53 292.64 255 310 M 255 250 C 254.98 268.96 254.34 287.99 255 310 M 255 310 C 220.77 311.05 189.83 308.96 165 310 M 255 310 C 233.06 310.63 211.76 309.17 165 310 M 165 310 C 166.52 297.13 163.08 283.94 165 250 M 165 310 C 164.53 290.46 164.52 271.43 165 250" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 280px; margin-left: 166px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                MDR
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="210" y="284" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    MDR
+                </text>
+            </switch>
+        </g>
+        <rect x="66" y="30" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 40px; margin-left: 67px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <h1>
+                                    主存储器
+                                </h1>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="146" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    主存储器
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
