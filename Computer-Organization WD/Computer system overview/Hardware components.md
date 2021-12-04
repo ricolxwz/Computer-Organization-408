@@ -2,9 +2,7 @@
 
 ### 主存储器的基本组成
 
-<center>
 ![](https://github.com/Ricolxwz/Computer-Organization/blob/dd6236cb8609a909b9a36103fe3e236f1b93f3b4/Computer-Organization%20WD/Computer%20system%20overview/SVG/Main%20memory1.drawio.svg)
-</center>
 
 - MAR位数反映存储单元的个数
 - MDR位数 = 存储字长
@@ -19,9 +17,7 @@
 
 ### 运算器的基本组成
 
-<center>
 ![](https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/SVG/Arithmetic%20unit1.drawio.svg)
-</center>
 
 - 运算器: 用于实现算数运算、逻辑运算
 - ACC: 累加器, 用于存放操作数, 或者运算结果
@@ -38,9 +34,7 @@
 
 ### 控制器的基本组成
 
-<center>
 ![](https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/SVG/Controller1.drawio.svg)
-</center>
 
 - CU(Control Unit): 控制单元, 分析指令, 给出控制信号
 - IR(Instruction Register): 指令寄存器, 存放当前执行的指令
@@ -54,9 +48,7 @@
 
 ### 计算机的工作过程
 
-<center>
 ![](https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/SVG/work%20process1.drawio.svg)
-</center>
 
 1. 最初: (PC)=0, 指向第一条指令的存储地址
 2. #1: (PC)->MAR, 导致(MAR)=0
