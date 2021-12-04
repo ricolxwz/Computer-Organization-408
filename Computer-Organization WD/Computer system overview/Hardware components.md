@@ -1,4 +1,3 @@
-#! https://zhuanlan.zhihu.com/p/441106173
 ## 硬件部件
 
 ### 主存储器的基本组成
