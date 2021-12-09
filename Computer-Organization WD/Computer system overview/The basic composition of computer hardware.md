@@ -8,7 +8,7 @@
 
 #### 流程
 
-![](https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/%E6%88%AA%E5%9B%BE_2021-12-03_09-05-08.png)
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/The%20basic%20composition%20of%20computer%20hardware1.png)
 
 #### 特点
 
@@ -26,12 +26,12 @@
   
 #### 流程
 
-![](https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/%E6%88%AA%E5%9B%BE_2021-12-03_09-23-00.png)
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/The%20basic%20composition%20of%20computer%20hardware2.png)
 
 - “主机”指的是CPU+主存储器
 - “辅存”指的是机械硬盘等等
 
-![](https://github.com/Ricolxwz/Computer-Organization/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/%E6%88%AA%E5%9B%BE_2021-12-03_09-26-00.png)
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Computer%20system%20overview/IMG/The%20basic%20composition%20of%20computer%20hardware3.png)
 
 ### 存储器的层次结构
 
