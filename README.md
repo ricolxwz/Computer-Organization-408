@@ -6,7 +6,7 @@
 
 ## 目录
 
-### 第一章
+### 第一章 计算机系统概述
 
 - [计算机的发展](https://github.com/Ricolxwz/Computer-Organization-408/blob/e0415b8df72f4b27e81976f35524293f54a55a7d/Computer-Organization%20WD/Computer%20system%20overview/Computer%20development%20history.md)
 - [计算机硬件的基本组成](https://github.com/Ricolxwz/Computer-Organization-408/blob/fd41d2b8f95adb9590b73933cf07c5687f811397/Computer-Organization%20WD/Computer%20system%20overview/The%20basic%20composition%20of%20computer%20hardware.md)
@@ -14,7 +14,7 @@
 - [计算机系统的层次结构](https://github.com/Ricolxwz/Computer-Organization-408/blob/2cac4836b1f8926a046ba4cb69de3862b5dc4cd0/Computer-Organization%20WD/Computer%20system%20overview/Computer%20hierarchy.md)
 - [计算机的性能指标](https://github.com/Ricolxwz/Computer-Organization-408/blob/4f24b237aaec844e50638251b14af6e776ba0121/Computer-Organization%20WD/Computer%20system%20overview/Computer%20performance%20index.md)
 
-### 第二章
+### 第二章 数据的表示和运算
 
 - [进位计数制](https://github.com/Ricolxwz/Computer-Organization-408/blob/08abeb6d56de1c0b5ea0ae5205f9990b1740cd7c/Computer-Organization%20WD/Data%20representation%20and%20operation/Carry%20counting%20system.md)
 - [BCD码](https://github.com/Ricolxwz/Computer-Organization-408/blob/b8efcbdeaab24a5903f22b4b31a47c5ca7caa3ab/Computer-Organization%20WD/Data%20representation%20and%20operation/BCD%20code.md)
