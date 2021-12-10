@@ -22,3 +22,4 @@
 - [奇偶校验码](https://github.com/Ricolxwz/Computer-Organization-408/blob/2dcf3dcb29fce23557d87112514857e2104038b8/Computer-Organization%20WD/Data%20representation%20and%20operation/Parity%20check%20code.md)
 - [海明校验码](https://github.com/Ricolxwz/Computer-Organization-408/blob/cda3fcdd7454b70435f80dfeac1b8f5280ffabda/Computer-Organization%20WD/Data%20representation%20and%20operation/Hamming%20check%20code.md)
 - [循环冗余校验码](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Data%20representation%20and%20operation/CRC%20code.md)
+- [定点数的表示](https://github.com/Ricolxwz/Computer-Organization-408/blob/6a63cce84004dd4e4fb6b2e79a3f5791a39d8a7a/Computer-Organization%20WD/Data%20representation%20and%20operation/Fixed-point%20representation.md)
