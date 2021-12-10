@@ -100,4 +100,4 @@
 
 ### 用几种码表示定点整数
 
-![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Data%20representation%20and%20operation/IMG/Fixed-point%20representation1.png)
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Data%20representation%20and%20operation/IMG/Fixed-point%20representation2.png)
