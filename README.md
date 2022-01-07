@@ -24,6 +24,7 @@
 - [循环冗余校验码](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Data%20representation%20and%20operation/CRC%20code.md)
 - [定点数的表示](https://github.com/Ricolxwz/Computer-Organization-408/blob/89abddfec0a46a45810874d812b40ca75691acce/Computer-Organization%20WD/Data%20representation%20and%20operation/Fixed-point%20representation.md)
 - [各种码的作用](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Data%20representation%20and%20operation/The%20role%20of%20various%20codes.md)
+- [移码运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/d5c5dbd3b6eafb691a28e49ac410dc19db057524/Computer-Organization%20WD/Data%20representation%20and%20operation/Shift%20operation.md)
 
 # Status
 
