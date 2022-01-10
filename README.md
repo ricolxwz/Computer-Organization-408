@@ -28,7 +28,7 @@
 - [加减运算和溢出运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/847e1aaa47a9815e89053007179c09608c4d4b25/Computer-Organization%20WD/Data%20representation%20and%20operation/Addition,%20subtraction%20and%20overflow%20operations.md)
 - [原码的乘法运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/a9e3af65d54f410f8b4f32fc8bca50f4c3115066/Computer-Organization%20WD/Data%20representation%20and%20operation/original%20code%20multiplication.md)
 - [补码的乘法运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/12cc0cdad64a64cdca5c19b0de83f451a84e2711/Computer-Organization%20WD/Data%20representation%20and%20operation/Two's%20complement%20multiplication.md)
-- [原码的除法运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/c71fa01b82dd65a30d7860a8c23668d9a673e90e/Computer-Organization%20WD/Data%20representation%20and%20operation/original%20code%20division.md)
+- [原码的除法运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/df31d78b1a8a27094922613aed8e0cccc88c6f30/Computer-Organization%20WD/Data%20representation%20and%20operation/original%20code%20division.md)
 
 # Status
 
