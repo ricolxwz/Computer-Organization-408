@@ -30,7 +30,7 @@
 
 若余数a为负, 则可直接商0, 并让余数左移1位再加上|除数|
 
-![](C:\Users\ricol\Desktop\Computer-Organization-408\Computer-Organization WD\Data representation and operation\IMG\original code division4.png)
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/c71fa01b82dd65a30d7860a8c23668d9a673e90e/Computer-Organization%20WD/Data%20representation%20and%20operation/IMG/original%20code%20division4.png)
 
 ![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Data%20representation%20and%20operation/IMG/original%20code%20division3.png)
 
