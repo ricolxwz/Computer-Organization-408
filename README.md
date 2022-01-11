@@ -32,6 +32,7 @@
 - [补码的除法运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/dd70ec6b8673d6201c3ad1bc16a7378a3379cfad/Computer-Organization%20WD/Data%20representation%20and%20operation/Two's%20complement%20division.md)
 - [强制类型转换](https://github.com/Ricolxwz/Computer-Organization-408/blob/289cb503ee19e3d3d471d4b8cf2cbb775e612508/Computer-Organization%20WD/Data%20representation%20and%20operation/Type%20conversion.md)
 - [数据的存储和排列](https://github.com/Ricolxwz/Computer-Organization-408/blob/198d00bffc2d2be5c143b9c7d7bc7a9723c94dd1/Computer-Organization%20WD/Data%20representation%20and%20operation/Data%20storage%20and%20arrangement.md)
+- [浮点数的表示和运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/cba9764074d165cc64c131e00cea3088c0c03648/Computer-Organization%20WD/Data%20representation%20and%20operation/Representation%20and%20operation%20of%20floating%20point%20numbers.md)
 
 # Status
 
