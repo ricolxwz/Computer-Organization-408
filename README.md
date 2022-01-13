@@ -35,6 +35,7 @@
 - [浮点数的表示和运算](https://github.com/Ricolxwz/Computer-Organization-408/blob/cba9764074d165cc64c131e00cea3088c0c03648/Computer-Organization%20WD/Data%20representation%20and%20operation/Representation%20and%20operation%20of%20floating%20point%20numbers.md)
 - [IEEE 754](https://github.com/Ricolxwz/Computer-Organization-408/blob/cdb4b6d629d721ea0ea0ac518296e7ce9708e22f/Computer-Organization%20WD/Data%20representation%20and%20operation/IEEE%20754.md)
 - [浮点数的计算](https://github.com/Ricolxwz/Computer-Organization-408/blob/5a000b2850b1c6b6d6ceed9b50b21ea44eac73e9/Computer-Organization%20WD/Data%20representation%20and%20operation/Operations%20on%20floating%20point%20numbers.md)
+- [电路的基本原理&加法器设计](https://github.com/Ricolxwz/Computer-Organization-408/blob/ce649dcda9e6192853bee60af21b776a87fdd699/Computer-Organization%20WD/Data%20representation%20and%20operation/Circuit%20Fundamentals%20&%20Adder%20Design.md)
 
 # Status
 
