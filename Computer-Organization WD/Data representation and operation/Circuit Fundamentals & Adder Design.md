@@ -118,5 +118,6 @@ $A_i, B_i, C_{i-1}$
 
 ![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Data%20representation%20and%20operation/SVG/Circuit%20Fundamentals%20&%20Adder%20Design5.drawio.svg)
 
+- 该种并行加法器称为串行进位的并行加法器
 - 把n个全加器串接起来, 就可进行两个n位数的相加
 - 串行进位又称为行波进位, 每一级进位直接依赖于前一级的进位, 即进位信号是逐级形成的
