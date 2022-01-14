@@ -40,7 +40,7 @@
 
 ### 第三章 存储系统
 
-- [存储系统基本概念](https://github.com/Ricolxwz/Computer-Organization-408/blob/b618de65fede82c3c4e3e6bb26c0c5966994e9b3/Computer-Organization%20WD/Storage%20System/Basic%20Concepts%20of%20Storage%20Systems.md)
+- [存储系统基本概念](https://github.com/Ricolxwz/Computer-Organization-408/blob/1aac0c64d29b91a7a11179e890d4a21437f828df/Computer-Organization%20WD/Storage%20System/Basic%20Concepts%20of%20Storage%20Systems.md)
 
 # Status
 
