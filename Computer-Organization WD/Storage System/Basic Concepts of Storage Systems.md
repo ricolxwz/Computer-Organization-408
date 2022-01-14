@@ -7,7 +7,7 @@
 
 辅存中的数据要调入主存后才被CPU访问
 
-![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Storage%20System/SVG/Basic%20Concepts%20of%20Storage%20Systems1.drawio.svg)
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/b618de65fede82c3c4e3e6bb26c0c5966994e9b3/Computer-Organization%20WD/Storage%20System/SVG/Basic%20Concepts%20of%20Storage%20Systems2.drawio.svg)
 
 有的教材把安装在电脑内部的磁盘称为"辅存", 把U盘, 光盘等称为"外存". 也有的教材把磁盘, U盘, 光盘等统称为"辅存"或者"外存"
 
