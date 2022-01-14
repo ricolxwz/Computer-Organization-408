@@ -38,6 +38,10 @@
 - [电路的基本原理&加法器设计](https://github.com/Ricolxwz/Computer-Organization-408/blob/ce649dcda9e6192853bee60af21b776a87fdd699/Computer-Organization%20WD/Data%20representation%20and%20operation/Circuit%20Fundamentals%20&%20Adder%20Design.md)
 - [加法器&ALU的改进](https://github.com/Ricolxwz/Computer-Organization-408/blob/fad0765627620a1de77696fb9e2ba60227cea4ef/Computer-Organization%20WD/Data%20representation%20and%20operation/Adder&ALU%20Improvements.md)
 
+### 第三章 存储系统
+
+- [存储系统基本概念](https://github.com/Ricolxwz/Computer-Organization-408/blob/b618de65fede82c3c4e3e6bb26c0c5966994e9b3/Computer-Organization%20WD/Storage%20System/Basic%20Concepts%20of%20Storage%20Systems.md)
+
 # Status
 
 ![Alt](https://repobeats.axiom.co/api/embed/b10d760972c13e0aeffcecb1a99055ec637f3ddd.svg "Repobeats analytics image")
