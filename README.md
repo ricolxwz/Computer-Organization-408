@@ -41,6 +41,7 @@
 ### 第三章 存储系统
 
 - [存储系统基本概念](https://github.com/Ricolxwz/Computer-Organization-408/blob/1aac0c64d29b91a7a11179e890d4a21437f828df/Computer-Organization%20WD/Storage%20System/Basic%20Concepts%20of%20Storage%20Systems.md)
+- [主存储器的基本组成](https://github.com/Ricolxwz/Computer-Organization-408/blob/de0515617db8f78f2d2b44b3b277625e9e0cd17e/Computer-Organization%20WD/Storage%20System/The%20basic%20components%20of%20main%20memory.md)
 
 # Status
 
