@@ -43,7 +43,7 @@
 - [存储系统基本概念](https://github.com/Ricolxwz/Computer-Organization-408/blob/1aac0c64d29b91a7a11179e890d4a21437f828df/Computer-Organization%20WD/Storage%20System/Basic%20Concepts%20of%20Storage%20Systems.md)
 - [主存储器的基本组成](https://github.com/Ricolxwz/Computer-Organization-408/blob/de0515617db8f78f2d2b44b3b277625e9e0cd17e/Computer-Organization%20WD/Storage%20System/The%20basic%20components%20of%20main%20memory.md)
 - [SRAM&DRAM](https://github.com/Ricolxwz/Computer-Organization-408/blob/4b90789f3bace25aa42f5077226b189bb962667e/Computer-Organization%20WD/Storage%20System/SRAM&DRAM.md)
-
+- [只读存储器ROM](https://github.com/Ricolxwz/Computer-Organization-408/blob/7b7c50ac30e2b5f85ccbf6dadedba33429bc021f/Computer-Organization%20WD/Storage%20System/read%20only%20memory%20ROM.md)
 # Status
 
 ![Alt](https://repobeats.axiom.co/api/embed/b10d760972c13e0aeffcecb1a99055ec637f3ddd.svg "Repobeats analytics image")
