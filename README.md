@@ -45,6 +45,7 @@
 - [SRAM&DRAM](https://github.com/Ricolxwz/Computer-Organization-408/blob/4b90789f3bace25aa42f5077226b189bb962667e/Computer-Organization%20WD/Storage%20System/SRAM&DRAM.md)
 - [只读存储器ROM](https://github.com/Ricolxwz/Computer-Organization-408/blob/7b7c50ac30e2b5f85ccbf6dadedba33429bc021f/Computer-Organization%20WD/Storage%20System/read%20only%20memory%20ROM.md)
 - [主存储器与CPU的连接](https://github.com/Ricolxwz/Computer-Organization-408/blob/32b8d79686f0a8607360d54a3587e9bf0912b23f/Computer-Organization%20WD/Storage%20System/Connection%20between%20main%20memory%20and%20CPU.md)
+- [双口RAM&多模块存储器](https://github.com/Ricolxwz/Computer-Organization-408/blob/b2b0f70c0c1c64ea172db8cae44294f1786358b2/Computer-Organization%20WD/Storage%20System/Dual-port%20ram%20&%20multi-module%20memory.md)
 
 
 # Status
