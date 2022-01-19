@@ -49,6 +49,7 @@
 - [Cache的基本概念和原理](https://github.com/Ricolxwz/Computer-Organization-408/blob/96674ab06687057345c9fc4dfbd24fc3746c9682/Computer-Organization%20WD/Storage%20System/Basic%20Concepts%20and%20Principles%20of%20Cache.md)
 - [Cache和主存的映射方式](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Storage%20System/Cache%20and%20main%20memory%20mapping.md)
 - [Cache替换算法](https://github.com/Ricolxwz/Computer-Organization-408/blob/db3b50e8d3877ccc21328b934b8965c0048ed503/Computer-Organization%20WD/Storage%20System/Cache%20replacement%20algorithm.md)
+- [Cache写策略](https://github.com/Ricolxwz/Computer-Organization-408/blob/9bec802784fc285a68bab83463bec04052d36ca5/Computer-Organization%20WD/Storage%20System/Cache%20write%20strategy.md)
 
 
 # Status
