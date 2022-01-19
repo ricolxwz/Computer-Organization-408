@@ -47,6 +47,8 @@
 - [主存储器与CPU的连接](https://github.com/Ricolxwz/Computer-Organization-408/blob/32b8d79686f0a8607360d54a3587e9bf0912b23f/Computer-Organization%20WD/Storage%20System/Connection%20between%20main%20memory%20and%20CPU.md)
 - [双口RAM&多模块存储器](https://github.com/Ricolxwz/Computer-Organization-408/blob/b2b0f70c0c1c64ea172db8cae44294f1786358b2/Computer-Organization%20WD/Storage%20System/Dual-port%20ram%20&%20multi-module%20memory.md)
 - [Cache的基本概念和原理](https://github.com/Ricolxwz/Computer-Organization-408/blob/96674ab06687057345c9fc4dfbd24fc3746c9682/Computer-Organization%20WD/Storage%20System/Basic%20Concepts%20and%20Principles%20of%20Cache.md)
+- [Cache和主存的映射方式](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/Storage%20System/Cache%20and%20main%20memory%20mapping.md)
+- [Cache替换算法](https://github.com/Ricolxwz/Computer-Organization-408/blob/db3b50e8d3877ccc21328b934b8965c0048ed503/Computer-Organization%20WD/Storage%20System/Cache%20replacement%20algorithm.md)
 
 
 # Status
