@@ -52,6 +52,9 @@
 - [Cache写策略](https://github.com/Ricolxwz/Computer-Organization-408/blob/9bec802784fc285a68bab83463bec04052d36ca5/Computer-Organization%20WD/Storage%20System/Cache%20write%20strategy.md)
 - [页式存储器](https://github.com/Ricolxwz/Computer-Organization-408/blob/cb9af54b5d5b1599ef78446a615dd62e616ab399/Computer-Organization%20WD/Storage%20System/page%20memory.md)
 
+### 第四章 指令系统
+
+- [指令寻址](https://github.com/Ricolxwz/Computer-Organization-408/blob/56a042e517f446bc43ab4975675a4c504f101da2/Computer-Organization%20WD/Command%20System/instruction%20addressing.md)
 
 # Status
 
