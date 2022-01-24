@@ -55,7 +55,7 @@
 ### 第四章 指令系统
 
 - [指令寻址](https://github.com/Ricolxwz/Computer-Organization-408/blob/56a042e517f446bc43ab4975675a4c504f101da2/Computer-Organization%20WD/Command%20System/instruction%20addressing.md)
-- [数据寻址](https://github.com/Ricolxwz/Computer-Organization-408/blob/8456fd9ac6acab2e4cd4b5e9420fa76ebd423fec/Computer-Organization%20WD/Command%20System/data%20addressing.md)
+- [数据寻址](https://github.com/Ricolxwz/Computer-Organization-408/blob/7d8d24e4773ab0db2a98733051b8f5713fa55dbd/Computer-Organization%20WD/Command%20System/data%20addressing.md)
 
 # Status
 
