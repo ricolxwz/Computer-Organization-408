@@ -56,6 +56,7 @@
 
 - [指令寻址](https://github.com/Ricolxwz/Computer-Organization-408/blob/56a042e517f446bc43ab4975675a4c504f101da2/Computer-Organization%20WD/Command%20System/instruction%20addressing.md)
 - [数据寻址](https://github.com/Ricolxwz/Computer-Organization-408/blob/2d20819d8e675ac1b7b8a97b6483c3cc87d465a2/Computer-Organization%20WD/Command%20System/data%20addressing.md)
+- [CISC和RISC](https://github.com/Ricolxwz/Computer-Organization-408/blob/a112bd7769c442502b1ae5ef67920d696f16b77a/Computer-Organization%20WD/Command%20System/CISC&RISC.md)
 
 # Status
 
