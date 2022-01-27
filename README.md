@@ -58,6 +58,10 @@
 - [数据寻址](https://github.com/Ricolxwz/Computer-Organization-408/blob/2d20819d8e675ac1b7b8a97b6483c3cc87d465a2/Computer-Organization%20WD/Command%20System/data%20addressing.md)
 - [CISC和RISC](https://github.com/Ricolxwz/Computer-Organization-408/blob/a112bd7769c442502b1ae5ef67920d696f16b77a/Computer-Organization%20WD/Command%20System/CISC&RISC.md)
 
+### 第五章 中央处理器
+
+- [CPU的功能和基本结构](https://github.com/Ricolxwz/Computer-Organization-408/blob/70070fe237ae52fdb37390b748b33b2b7ef9a277/Computer-Organization%20WD/CPU/Function%20and%20basic%20structure%20of%20CPU.md)
+
 # Status
 
 ![Alt](https://repobeats.axiom.co/api/embed/b10d760972c13e0aeffcecb1a99055ec637f3ddd.svg "Repobeats analytics image")
