@@ -48,7 +48,7 @@
 
 将所有寄存器的输入端和输出端都连接到一条公共的通路上
 
-![]()
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/CPU/IMG/Function%20and%20basic%20structure%20of%20CPU2.png)
 
 ### 控制器的基本结构
 
@@ -59,7 +59,7 @@
 - 时序系统: 用于产生各种时序信号, 他们都是由统一时钟(CLOCK)分频得到
 - 存储器地址寄存器: 用于存放所要访问的主存单元的地址
 
-![]()
+![](https://github.com/Ricolxwz/Computer-Organization-408/blob/main/Computer-Organization%20WD/CPU/IMG/Function%20and%20basic%20structure%20of%20CPU3.png)
 
 ### CPU的基本结构
 
@@ -67,4 +67,3 @@
 - 中断系统
 - 寄存器
 - CU
-
