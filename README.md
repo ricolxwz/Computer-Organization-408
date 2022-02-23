@@ -61,6 +61,7 @@
 ### 第五章 中央处理器
 
 - [CPU的功能和基本结构](https://github.com/Ricolxwz/Computer-Organization-408/blob/cc7f86069ae90f907b475a1928ab75e1a261b7f3/Computer-Organization%20WD/CPU/Function%20and%20basic%20structure%20of%20CPU.md)
+- [指令执行过程](https://github.com/Ricolxwz/Computer-Organization-408/blob/3c17ee176786b3fc50d87927ad1a4f45e80ee7f3/Computer-Organization%20WD/CPU/instruction%20execution%20process.md)
 
 # Status
 
