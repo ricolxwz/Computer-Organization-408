@@ -64,6 +64,7 @@
 - [指令执行过程](https://github.com/Ricolxwz/Computer-Organization-408/blob/3c17ee176786b3fc50d87927ad1a4f45e80ee7f3/Computer-Organization%20WD/CPU/instruction%20execution%20process.md)
 - [数据通路的功能&单总线结构](https://github.com/Ricolxwz/Computer-Organization-408/blob/650b9222289cecda7efd19b84e2d248319e669b5/Computer-Organization%20WD/CPU/Function%20of%20the%20data%20path%20&%20single%20bus%20structure.md)
 - [数据通路专用通路结构](https://github.com/Ricolxwz/Computer-Organization-408/blob/6f54a4b541683fede92f5f0d46063335e183f4fe/Computer-Organization%20WD/CPU/Data%20Path%20Dedicated%20Path%20Structure.md)
+- [控制器设计硬布线控制器](https://github.com/Ricolxwz/Computer-Organization-408/blob/ebe610c78bb9a1e641c7cf8d2a3380b357e304ef/Computer-Organization%20WD/CPU/Controller%20Design%20Hardwired%20Controller.md)
 
 # Status
 
