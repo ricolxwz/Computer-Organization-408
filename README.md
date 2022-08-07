@@ -1,9 +1,5 @@
 # 计算机组成原理
 
-☄️ 本仓库是 CS 王道考研 **计算机组成原理** 专业课视频的笔记以及一些资料
-
-👏 欢迎大家Fork、PR、Star 笔芯~♥️
-
 ## 目录
 
 ### 第一章 计算机系统概述
@@ -65,7 +61,3 @@
 - [数据通路的功能&单总线结构](https://github.com/Ricolxwz/Computer-Organization-408/blob/650b9222289cecda7efd19b84e2d248319e669b5/Computer-Organization%20WD/CPU/Function%20of%20the%20data%20path%20&%20single%20bus%20structure.md)
 - [数据通路专用通路结构](https://github.com/Ricolxwz/Computer-Organization-408/blob/6f54a4b541683fede92f5f0d46063335e183f4fe/Computer-Organization%20WD/CPU/Data%20Path%20Dedicated%20Path%20Structure.md)
 - [控制器设计硬布线控制器](https://github.com/Ricolxwz/Computer-Organization-408/blob/ebe610c78bb9a1e641c7cf8d2a3380b357e304ef/Computer-Organization%20WD/CPU/Controller%20Design%20Hardwired%20Controller.md)
-
-# Status
-
-![Alt](https://repobeats.axiom.co/api/embed/b10d760972c13e0aeffcecb1a99055ec637f3ddd.svg "Repobeats analytics image")
